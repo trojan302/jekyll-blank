@@ -1,0 +1,19 @@
+/* 
+
+Setting your layout
+
+*/
+
+body{
+	margin: 0;
+	padding: 0;
+}
+
+nav{
+	ul{
+		list-style: none;
+		li {
+			display: inline-block;
+		}
+	}
+}
